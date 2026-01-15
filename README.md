@@ -5,3 +5,6 @@ I am a student at Kalamazoo College with a profound interest in technology and a
 
 I'm interested in software development and web development.
 
+dldc
+cds
+cdccscvsfv  
